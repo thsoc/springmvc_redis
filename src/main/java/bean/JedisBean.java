@@ -1,5 +1,10 @@
 package bean;
 
+/**
+ * 
+ * @author mazg
+ *
+ */
 public class JedisBean {
 	private int a;
 	private String b;
