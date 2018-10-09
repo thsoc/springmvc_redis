@@ -2,7 +2,7 @@ package bean;
 
 /**
  * 
- * @author mazg
+ * @author mazg，修改注释
  *
  */
 public class JedisBean {
